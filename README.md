@@ -1,5 +1,6 @@
 # Welcome to Ecommerce Glossary!
 
+![alt text](https://raw.githubusercontent.com/MrGKanev/Ecommerce-Glossary/master/ecom.jpg)
 
 
 ## The Complete Ecommerce Dictionary
