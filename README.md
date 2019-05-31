@@ -5,7 +5,7 @@
 ## The Complete Ecommerce Dictionary
 
 Here's the complete alphabetical list of ecommerce terms and definitions that will help you familiarize with Ecommerce terms.
-  [A](letters/a.md)   [B](letters/b.md)  [C]()  [D]()  [E]()  [F]()  [G]() [H]() [I]()  [L]() [M]() [N]()  [O]()  [P]()  [Q]() [R]() [S]() [T]() [U]() [W]() [X]()
+  [A](letters/a.md)   [B](letters/b.md)  [C](letters/c.md)  [D](letters/d.md)  [E](letters/e.md)  [F](letters/f.md)  [G](letters/g.md) [H]() [I]()  [L]() [M]() [N]()  [O]()  [P]()  [Q]() [R]() [S]() [T]() [U]() [W]() [X]()
 
 
 
