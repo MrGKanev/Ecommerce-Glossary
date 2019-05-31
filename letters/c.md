@@ -1,0 +1,9 @@
+## C
+
+|     Word       |        Explanation            |Link (If needed)             |
+|----------------|-------------------------------|-----------------------------|
+|Call-To-Action        |`'These are words or phrases incorporated in a message or sales script that induces a viewer, reader or listener to take immediate action. Typical CTAs used in marketing and advertising are ‘Buy Now‘, ‘Call Now‘, ‘Click Here‘ etc. Such words prompts an immediate response or encourage visitors to make a purchase. CTAs have greatly proved its impact on the conversion rates.'`            |'Isn't this fun?'            |
+|Cart Abandonment Rate        |`'This refers to a ratio of the number of shopping carts in total versus the number of completed transactions. It is basically the rate at which visitors initiates the purchase by adding an item to their cart and leaves the site without completing the transaction.'`            |'Isn't this fun?'            |
+|Conversion Rate       |`'Conversion Rate is a marketing concept measured in percentage. It is a rate at which visitors convert on a site, which means dividing the number of people who transformed into paying customers by the number of visitors that visited the site.'`            |'Isn't this fun?'            |
+|Conversion Rate Optimization (CRO)        |`'This is a process of enhancing the user experience of a website to improve the chances of convincing the visitors to complete their online goal. This involves tweaking the web layout, content and design as a whole so that the goal for hiking the conversion rate is achieved. The process involves clear understanding of web design basics, human psychology, and statistics.'`            |'Isn't this fun?')            |
+|Content Management System (CMS)      |`'a back-end interface that makes editing content more user-friendly, e.g. WordPress.'`            |'Isn't this fun?'            |
