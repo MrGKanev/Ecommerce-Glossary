@@ -6,6 +6,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/mrgkanev/Ecommerce-Glossary?style=flat-square)
 ![GitHub labels](https://img.shields.io/github/labels/mrgkanev/Ecommerce-Glossary/help-wanted)
 ![GitHub](https://img.shields.io/github/license/mrgkanev/Ecommerce-Glossary)
+![GitHub repo size](https://img.shields.io/github/repo-size/mrgkanev/Ecommerce-Glossary)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 
 
