@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/github/license/mrgkanev/Ecommerce-Glossary)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mrgkanev/Ecommerce-Glossary)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
-![Maintenance](https://img.shields.io/badge/Number%20of%20terms-41-brightgreen)
+![Maintenance](https://img.shields.io/badge/Number%20of%20terms-45-brightgreen)
 
 
 ## The Complete Ecommerce Dictionary
