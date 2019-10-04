@@ -1,3 +1,4 @@
+[Get back](https://github.com/MrGKanev/Ecommerce-Glossary)
 ## E
 
 |     Word       |        Explanation            |Link (If needed)             |
