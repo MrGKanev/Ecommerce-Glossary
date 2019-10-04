@@ -1,6 +1,12 @@
 # Welcome to Ecommerce Glossary!
 
-![alt text](https://raw.githubusercontent.com/MrGKanev/Ecommerce-Glossary/master/ecom.jpg)
+![Ecommerce Glossary](https://raw.githubusercontent.com/MrGKanev/Ecommerce-Glossary/master/ecom.jpg)
+
+
+![GitHub issues](https://img.shields.io/github/issues/mrgkanev/Ecommerce-Glossary?style=flat-square)
+![GitHub labels](https://img.shields.io/github/labels/mrgkanev/Ecommerce-Glossary/help wanted)
+![GitHub](https://img.shields.io/github/license/mrgkanev/Ecommerce-Glossary)
+![Maintenance](https://img.shields.io/maintenance/yes/2020)
 
 
 ## The Complete Ecommerce Dictionary
