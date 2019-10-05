@@ -3,9 +3,10 @@
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|
+|Abandonment    |`"When a visitor has visited your online store or webpage but left without completing the purchase"`            |"Isn't this fun?"            |
+|A/B Testing       |`'A/B Testing is a method used by website development companies to compare two web pages to determine which one performs better. There are two variants of the web page which are shown randomly to the prospect and the page which provides a good conversion rate is opted. Thus this mechanism helps to figure out the best online promotional and marketing strategies for online business.'`            |'Isn't this fun?'            |
 |Affiliate       |`'an individual or business who promotes the products or services of another for a commission. Ecommerce sites run affiliate programmes to encourage other website owners to refer traffic, paying a commission on each sale through a given affiliate link.'`            |'Isn't this fun?'            |
 |Amazon Marketplace    |`"the largest 3rd party ecommerce platform, choosing to sell on the Amazon Marketplace can help significantly boost volume through your store. Amazon charge fees on every sale through the Marketplace, and also offer Fulfilment By Amazon, where they handle the fulfilment process for your business at extra cost."`            |[Link](https://www.amazon.com/b?ie=UTF8&node=8296344011)           |
-|Abandonment    |`"When a visitor has visited your online store or webpage but left without completing the purchase"`            |"Isn't this fun?"            |
 |Admin Panel    |`"A dashboard provided by every online store and webpage where the admin can manage and customize the store entries."`            |"Isn't this fun?"            |
 |Address Verification Service (AVS)    |`"A process that facilitates every credit cards system in the implementation of verification that the provided billing address of credit card matches with the address on the credit card."`            |"Isn't this fun?"            |
 |Average Time on Site    |`"This is the average time on a visitor spends on the webpage. It is mostly seen in web analytics report which acts as a metric of content quality and user experience."`            |"Isn't this fun?"            |
