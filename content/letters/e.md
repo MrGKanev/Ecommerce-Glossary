@@ -1,5 +1,8 @@
-[Get back](https://github.com/MrGKanev/Ecommerce-Glossary)
-## E
++++
+title = "E"
+description = "E"
+weight = 1
++++
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|

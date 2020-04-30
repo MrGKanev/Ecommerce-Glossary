@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ecommerce Glossary"
 theme = "ace-documentation"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i>"
+url = "https://github.com/mrgkanev/Ecommerce-Glossary/"
+weight = 10
