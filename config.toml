@@ -1,9 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost/"
 languageCode = "en-us"
 title = "Ecommerce Glossary"
 theme = "ace-documentation"
 
+
+# Social media icons
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
 url = "https://github.com/mrgkanev/Ecommerce-Glossary/"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-twitter'></i>"
+url = "https://twitter.com/mrgkanev"
+weight = 20
+
+
+# 3-rd party connections and integrations
+googleAnalytics = "UA-123-45"

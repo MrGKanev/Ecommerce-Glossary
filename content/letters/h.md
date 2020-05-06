@@ -1,6 +1,6 @@
 +++
 title = "H"
-description = "H"
+description = "Letter H"
 weight = 1
 +++
 

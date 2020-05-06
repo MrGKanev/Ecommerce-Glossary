@@ -1,6 +1,6 @@
 +++
-title = "Usage"
-description = "test"
+title = "Glossaries in Alphabetical order"
+description = "Glossaries in Alphabetical order"
 weight = 2
 +++
 
