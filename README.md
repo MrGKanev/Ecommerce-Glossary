@@ -1,30 +1,47 @@
-# Welcome to Ecommerce Glossary!
+# Ecommerce Glossary
 
 ![Ecommerce Glossary](https://raw.githubusercontent.com/MrGKanev/Ecommerce-Glossary/master/ecom.jpg)
 
-
-  ![GitHub issues](https://img.shields.io/github/issues/mrgkanev/Ecommerce-Glossary?style=flat-square)
-  ![GitHub](https://img.shields.io/github/license/mrgkanev/Ecommerce-Glossary)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mrgkanev/Ecommerce-Glossary)
-  ![Maintenance](https://img.shields.io/badge/PRs%20-welcome-brightgreen)
-  ![Maintenance](https://img.shields.io/maintenance/yes/2020)
-  ![Maintenance](https://img.shields.io/badge/Number%20of%20terms-69-brightgreen)
-
+![GitHub issues](https://img.shields.io/github/issues/mrgkanev/Ecommerce-Glossary?style=flat-square)
+![GitHub](https://img.shields.io/github/license/mrgkanev/Ecommerce-Glossary)
+![GitHub repo size](https://img.shields.io/github/repo-size/mrgkanev/Ecommerce-Glossary)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
+![Terms](https://img.shields.io/badge/Terms-216-blue)
 
 ## The Complete Ecommerce Dictionary
 
-Here's the complete alphabetical list of ecommerce terms and definitions that will help you familiarize with Ecommerce terms.
-  [A](letters/a.md)   [B](letters/b.md)  [C](letters/c.md)  [D](letters/d.md)  [E](letters/e.md)  [F](letters/f.md)  [G](letters/g.md) [H](letters/h.md) [I](letters/i.md)  [L](letters/l.md) [M](letters/m.md) [N](letters/n.md)  [O](letters/o.md)  [P](letters/p.md)  [Q](letters/q.md) [R](letters/r.md) [S](letters/s.md) [T](letters/t.md) [U](letters/u.md) [W](letters/w.md) [X](letters/x.md) [Numbers](letters/numbers.md)
+A comprehensive, searchable glossary of ecommerce terms and definitions to help you navigate the world of online retail.
 
+**[View the Live Glossary](https://mrgkanev.github.io/Ecommerce-Glossary/)**
 
+### Browse by Letter
 
+[A](letters/a.md) [B](letters/b.md) [C](letters/c.md) [D](letters/d.md) [E](letters/e.md) [F](letters/f.md) [G](letters/g.md) [H](letters/h.md) [I](letters/i.md) [J](letters/j.md) [K](letters/k.md) [L](letters/l.md) [M](letters/m.md) [N](letters/n.md) [O](letters/o.md) [P](letters/p.md) [Q](letters/q.md) [R](letters/r.md) [S](letters/s.md) [T](letters/t.md) [U](letters/u.md) [V](letters/v.md) [W](letters/w.md) [X](letters/x.md) [Y](letters/y.md) [Z](letters/z.md) [#](letters/numbers.md)
 
+## Features
 
-## How to add a new letter
+- **216+ ecommerce terms** with clear, concise definitions
+- **Searchable interface** - find terms instantly
+- **Modern terminology** - updated for 2026 including AI, BNPL, headless commerce, and more
+- **Mobile-friendly** - works on all devices
+- **Open source** - contribute and improve
 
-If for some reason I have not added a letter please make it like this:
+## Contributing
 
-|     Word       |        Explanation            |Link (If needed)             |
-|----------------|-------------------------------|-----------------------------|
-|Affiliate       |`text explaining stuff`            |'Isn't this fun?'            |
-|Amazon Marketplace    |`text explaining stuff`            |"Isn't this fun?"            |
+Want to add a term? Submit a PR with your addition following this format:
+
+```markdown
+|Term Name|`"Clear, concise definition of the term."`|[Link](https://example.com) or -|
+```
+
+## Local Development
+
+This site is statically generated and hosted on GitHub Pages. To run locally:
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
