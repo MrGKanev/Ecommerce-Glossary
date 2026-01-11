@@ -3,7 +3,12 @@
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|
-|Domain Name      |`'the web address of your online store, for example www.myshop.com.'`            |'Isn't this fun?'            |
-|Discount Code     |`'In eCommerce, a discount code is also called as a Coupon code or Promo code. These codes consist of letters and numbers which are computer-generated and used to activate discounts or special offers on the site.'`            |'Isn't this fun?'            |
-|Discount Rate    |`'Discount rate is a percentage rate which is charged by the acquiring banks for processing the merchant’s transactions. This charge is a small percentage of each purchase and it depends on several factors like type of card, how credit card was processed and order placed, and whether CVM or AVS were used.'`            |'Isn't this fun?'            |
-|Dropshipping        |`'A type of ecommerce arrangement where the manufacturer or distributor ships directly to your customers, often in generic packaging. This means you don’t hold stock, but expect to pay a greater cost per item sold.'`            |'Isn't this fun?'            |
+|Domain Name|`"The web address of your online store (e.g., www.mystore.com)."`|-|
+|Discount Code|`"Alphanumeric codes customers enter at checkout to receive discounts or special offers."`|-|
+|Discount Rate|`"The percentage fee charged by payment processors for each transaction."`|-|
+|Dropshipping|`"Fulfillment model where products ship directly from supplier to customer without holding inventory."`|-|
+|D2C (Direct-to-Consumer)|`"Brands selling directly to consumers without retail intermediaries, controlling the entire experience."`|-|
+|Dynamic Pricing|`"Automatically adjusting prices based on demand, competition, inventory, or customer segments."`|-|
+|Digital Wallet|`"Payment methods like Apple Pay, Google Pay, or PayPal that store payment info for quick checkout."`|-|
+|Dark Mode|`"Alternative color scheme for websites and apps that reduces eye strain and saves battery on OLED screens."`|-|
+|Data Privacy|`"Compliance with regulations like GDPR and CCPA regarding customer data collection and usage."`|-|

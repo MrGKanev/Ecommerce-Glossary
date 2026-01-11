@@ -3,13 +3,15 @@
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|
-|Abandonment    |`"When a visitor has visited your online store or webpage but left without completing the purchase"`            |"Isn't this fun?"            |
-|A/B Testing       |`'A/B Testing is a method used by website development companies to compare two web pages to determine which one performs better. There are two variants of the web page which are shown randomly to the prospect and the page which provides a good conversion rate is opted. Thus this mechanism helps to figure out the best online promotional and marketing strategies for online business.'`            |'Isn't this fun?'            |
-|Affiliate       |`'an individual or business who promotes the products or services of another for a commission. Ecommerce sites run affiliate programmes to encourage other website owners to refer traffic, paying a commission on each sale through a given affiliate link.'`            |'Isn't this fun?'            |
-|Amazon Marketplace    |`"the largest 3rd party ecommerce platform, choosing to sell on the Amazon Marketplace can help significantly boost volume through your store. Amazon charge fees on every sale through the Marketplace, and also offer Fulfilment By Amazon, where they handle the fulfilment process for your business at extra cost."`            |[Link](https://www.amazon.com/b?ie=UTF8&node=8296344011)           |
-|Admin Panel    |`"A dashboard provided by every online store and webpage where the admin can manage and customize the store entries."`            |"Isn't this fun?"            |
-|Address Verification Service (AVS)    |`"A process that facilitates every credit cards system in the implementation of verification that the provided billing address of credit card matches with the address on the credit card."`            |"Isn't this fun?"            |
-|Average Time on Site    |`"This is the average time on a visitor spends on the webpage. It is mostly seen in web analytics report which acts as a metric of content quality and user experience."`            |"Isn't this fun?"            |
-|Application Programming Interface (API)    |`"A set of instructions that allows two different softwares to exchange data with each other. It also enables developers to access other websites to perform specific operations on thieir own website."`            |"Isn't this fun?"            |
-|Attribute Set    |`"A list of certain individual product details that describe all of the product’s characteristics. Every product in has its own set of unique attributes. A large sized brown color with silver buckle is an attribute set of a bag on the ecommerce store."`            |"Isn't this fun?"            |
-|Authorization    |`"This is a transaction that confirms that the mode of payment is valid by determining that the cardholder has sufficient funds to perform the transaction. The payment authorization that completes successfully is a goal achieved by the business."`            |"Isn't this fun?"            |
+|Abandonment|`"When a visitor leaves your online store without completing the purchase, often tracked as cart abandonment rate."`|-|
+|A/B Testing|`"A method comparing two versions of a webpage or element to determine which performs better for conversions."`|-|
+|Affiliate|`"An individual or business promoting products for commission through unique tracking links."`|-|
+|Amazon Marketplace|`"The largest third-party ecommerce platform where sellers can reach millions of buyers, with FBA fulfillment options."`|[Link](https://sell.amazon.com)|
+|Admin Panel|`"A dashboard where store administrators manage products, orders, customers, and settings."`|-|
+|Address Verification Service (AVS)|`"A fraud prevention system that verifies billing addresses match credit card records."`|-|
+|Average Order Value (AOV)|`"The average amount spent per transaction, calculated by dividing total revenue by number of orders."`|-|
+|API (Application Programming Interface)|`"A set of protocols enabling different software systems to communicate and exchange data."`|-|
+|Attribute|`"Product characteristics like size, color, or material that help customers filter and find products."`|-|
+|Authorization|`"The process of verifying a payment method has sufficient funds before completing a transaction."`|-|
+|AI Personalization|`"Using artificial intelligence to customize shopping experiences, recommendations, and content for individual users."`|-|
+|Augmented Reality (AR)|`"Technology allowing customers to visualize products in their environment through smartphone cameras before purchase."`|-|

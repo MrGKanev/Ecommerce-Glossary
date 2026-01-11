@@ -3,13 +3,15 @@
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|
-|Blog        |`'an essential for any ecommerce business, a blog is simply an online log of content relevant to your market. These should be bolted on to your ecommerce site, and most platforms you choose to run your site will have an in-built blogging function, so you can attract both traffic and links to your store.'`            |'Isn't this fun?'            |
-|B2B (Business to Business)        |`'his kind of ecommerce consists of dealings related to the goods and services between two brands. These are often conducted between companies and include conventional wholesalers and producers dealing with retailers.'`            |'Isn't this fun?'            |
-|B2C (Business to Consumer)        |`'The ecommerce related to the transactions and relationship between businesses and the end customers. This retail eCommerce trade takes place online.'`            |'Isn't this fun?'            |
-|BigCommerce        |`'An ecommerce solution'`            |Link(https://www.bigcommerce.com/)            |
-|Billing Address        |`'The address where the customer’s credit card statement is mailed to.'`            |'Isn't this fun?'            |
-|Bounce Rate        |`'Bounce Rate is expressed in percentage and refers to the percentage of visitors who navigate away from the website without visiting other pages of the site. This term is specially used in web traffic analysis as it measures the effectiveness of a website in encouraging users to move ahead in their journey on the website.'`            |'Isn't this fun?'            |
-|Brick-and-click Store       |`'As you move from traditional retail, this is going to be your new identity. A brick-and-click store any business with at least one physical location and an eCommerce-enabled website. This is an upgrade to the brick-and-mortar we are so familiar with.'`            |'Isn't this fun?'            |
-|Bundling        |`'It is a marketing strategy wherein several similar products or services are combined together and sold as one package solution. Businesses often sell these bundled products at a reduced price so as to attract more customers.'`            |'Isn't this fun?'            |
-|Buy-to-Detail Rate        |`'It is a metric that allows you to determine unique purchases per number of views of product details page.'`            |'Isn't this fun?'            |
-|Buyers Persona        |`'Buyers Persona is a semi-fictional representation of your prospective customer based on market research and real data of your existing customers. While preparing a buyers persona its important to consider their journey, behavioral pattern, demographics, goals etc.'`            |'Isn't this fun?'            |
+|Blog|`"Content marketing hub for ecommerce, driving organic traffic and building brand authority through valuable articles."`|-|
+|B2B (Business to Business)|`"Commerce between businesses, including wholesale, manufacturing suppliers, and SaaS services."`|-|
+|B2C (Business to Consumer)|`"Direct sales from businesses to end consumers, the most common ecommerce model."`|-|
+|BigCommerce|`"A SaaS ecommerce platform for mid-market and enterprise businesses with strong B2B features."`|[Link](https://www.bigcommerce.com)|
+|Billing Address|`"The address associated with a customer's payment method, used for fraud verification."`|-|
+|Bounce Rate|`"Percentage of visitors who leave after viewing only one page, indicating content or UX issues."`|-|
+|Brick-and-Click|`"Businesses operating both physical stores and online ecommerce, offering omnichannel experiences."`|-|
+|Bundling|`"Selling multiple products together as a package, often at a discount to increase average order value."`|-|
+|Buy-to-Detail Rate|`"Conversion metric measuring purchases per product detail page view."`|-|
+|Buyer Persona|`"Semi-fictional representation of ideal customers based on research and data, guiding marketing strategy."`|-|
+|BNPL (Buy Now Pay Later)|`"Payment option allowing customers to split purchases into installments, offered by services like Klarna, Afterpay, and Affirm."`|-|
+|Breadcrumbs|`"Navigation elements showing the path from homepage to current page, improving UX and SEO."`|-|

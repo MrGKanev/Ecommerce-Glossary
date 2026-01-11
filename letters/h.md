@@ -3,5 +3,10 @@
 
 |     Word       |        Explanation            |Link (If needed)             |
 |----------------|-------------------------------|-----------------------------|
-|Hashtag|`'It is a label or a phrase preceded by a hash character (#) used in social networks and microblogging services to identify the messages of specific topics. When customers use hashtags, the message that has been tagged to it is revealed.'`            |'Isn't this fun?'            |
-|HTML|`'HTML stands for Hypertext Markup Language which is a formatting or document description language used to create World Wide Web pages. ‘Hypertext’ refers to the hyperlinks that an HTML page may contain and ‘Markup language’ refers to the way tags are used to define the page layout and elements within the page.'`            |'[Link](https://www.w3.org/html/)'            |
+|Hashtag|`"Keywords prefixed with # used on social media to categorize and discover content."`|-|
+|HTML|`"Hypertext Markup Language - the standard code for structuring web pages."`|[Link](https://developer.mozilla.org/en-US/docs/Web/HTML)|
+|Headless Commerce|`"Architecture separating the frontend presentation from backend commerce functionality via APIs."`|-|
+|Hero Image|`"The large, prominent image at the top of a webpage, typically showcasing featured products or promotions."`|-|
+|Heatmap|`"Visual representation of where users click, scroll, and spend time on your pages."`|-|
+|HTTP Status Codes|`"Server responses indicating request success (200), redirects (301/302), or errors (404/500)."`|-|
+|Hosting|`"Server infrastructure where website files are stored and served to visitors."`|-|
